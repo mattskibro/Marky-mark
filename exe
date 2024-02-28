@@ -1,0 +1,6 @@
+git init
+git config --global user.name "Matt Hauraki"
+git config --global user.email matthauraki@hotmail.com
+git config --global core.editor code --wait
+git add mark
+git commit mark -m "add mark cv"
